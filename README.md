@@ -3,15 +3,15 @@ My attempts to solve various challenges in the advent of code 2023.
 
 I will use primarily C#, Java & Rust as these are three languages I want to learn in 2024.
 
-##
+## C#
 ```cs
-// C++ solutions goes here
+// C# solutions goes here
 ```
-#JAVA
+# JAVA
 ```java
 // Java solutions goes here
 ```
-#RUST
+# RUST
 ```rs
 // Rust solutions goes here
 ```
